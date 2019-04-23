@@ -15,6 +15,9 @@
   {{ end }}
 
   <style>
+    nav a {
+      padding-right:  5px;
+    }
     body {
       margin: 40px auto;
       max-width: 650px;
@@ -45,6 +48,36 @@
   <hr>
 
   {{ block "main" . }}{{ end }}
+
+<br>
+<hr>
+
+<!--     action="https://formspree.io/nsjessop@gmail.com"  
+ -->
+
+subscribe for new essays and other updates: 
+  <form
+    name="name"
+    method="POST"
+    target="_blank"
+    action="https://njess.substack.com/mailmunch"  
+    class="newsletter floating-labels"
+    X-Mailmunch-Time="1556060494"
+    Authorization="3c36c0f75e6b66ce51dced462f151886a55d3af276e6f1965c3bad22642e432b"
+    data-success="Thanks! You are now subscribed."
+    data-error="Whoops there was an error. Please try again." >
+  <p class="form-field">
+    <label>
+
+      <input name="email" type="email" value="you@domain.com" onfocus="this.value=''" required />
+    </label>
+    <button type="submit" class="button">Submit</button>
+  </p>
+  </form>
+
+<script>
+  var = Math.round((new Date()).getTime() / 1000);
+</script>
 </body>
 
 </html>

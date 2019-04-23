@@ -1,6 +1,6 @@
-baseURL = "https://minimal-hugo-blog-layout.netlify.com/"
+baseURL = "https://noahjessop.com/"
 languageCode = "en-us"
-title = "Some Title"
+title = "plain talk by noah jessop"
 enableRobotsTXT = true
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
@@ -8,22 +8,15 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
   post = "/:filename/"
 
 [params]
-  description = "Some description"
+  description = "writings and more"
 
 [menu]
   [[menu.nav]]
-  name = "Posts"
+  name = "home"
   url = "/"
   weight = 1
   [[menu.nav]]
-  name = "About"
+  name = "start here"
   url = "/about/"
   weight = 2
   [[menu.nav]]
-  name = "Contact"
-  url = "/contact/"
-  weight = 3
-  [[menu.nav]]
-  name = "RSS"
-  url = "/index.xml"
-  weight = 4
