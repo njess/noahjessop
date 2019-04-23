@@ -1,5 +1,7 @@
 # Minimal Hugo Blog Layout
 
+Modified from minimal-hugo-blog-layout - great work.
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/86628f35-ead8-4f4d-99ef-673e3ab08b6f/deploy-status)](https://app.netlify.com/sites/minimal-hugo-blog-layout/deploys)
 
 ## Live Demo
