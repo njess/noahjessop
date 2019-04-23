@@ -2,11 +2,11 @@
 
 Modified from minimal-hugo-blog-layout - great work.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/86628f35-ead8-4f4d-99ef-673e3ab08b6f/deploy-status)](https://app.netlify.com/sites/minimal-hugo-blog-layout/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/86628f35-ead8-4f4d-99ef-673e3ab08b6f/deploy-status)](https://app.netlify.com/sites/njess/deploys)
 
 ## Live Demo
 
-<https://minimal-hugo-blog-layout.netlify.com/>
+<https://njess.netlify.com/>
 
 ## Overview
 
@@ -41,6 +41,6 @@ The main files:
 
 ## Acknowledgments
 
-Thank you to all the contributors at [hugo](https://github.com/gohugoio/hugo/graphs/contributors), [hugo docs](https://github.com/gohugoio/hugoDocs/graphs/contributors), and the [hugo discussion forum](https://discourse.gohugo.io/).
+Thank you to all the contributors at [minimal-hugo-blog-layout](https://github.com/zwbetz-gh/minimal-hugo-blog-layout), [hugo](https://github.com/gohugoio/hugo/graphs/contributors), [hugo docs](https://github.com/gohugoio/hugoDocs/graphs/contributors), and the [hugo discussion forum](https://discourse.gohugo.io/).
 
 Site design is based off the [better mother loving website](http://bettermotherfuckingwebsite.com/). 
