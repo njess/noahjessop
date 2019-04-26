@@ -62,6 +62,7 @@ The point is: the banking system was initially created to route around surplus c
 4. I blend the rate of return across my deposit base — some good loans, some great loans, a default or two
 
 5. I issue “banknotes” valid for money held within my reserves
+
 As it turned out, this system worked pretty great for the time. Keynes noted that at its best, credit should be difficult to obtain, but inexpensive. That way, credit gets routed to the projects that are best able to put it to productive use (and can actually can repay it later, making society wealthier as a whole.) Credit for the sake of speculation and the value destruction from the compounding cost of overly unproductive interest rates (vs the linear rate of the real-world uses that will repay the loan someday) are topics deserving further inspection at a later date.
 
 Of course, there’s a bit of a catch here - this works great until it doesn’t. If I, the bank, lend to too many disastrous or illiquid projects, I risk a run on the bank and the chance of colossal failure. How should you value a dollar guarantee from a bank you don’t know, far away in a distant city? Credit guides of the day (nowadays think S&P, Moody’s, etc) would value these banknotes. For example, the early banks of the “west” (then Illinois) were more susceptible to collapse, so their banknotes might trade at 50, 60 cents on the dollar all the way in Philadelphia.
